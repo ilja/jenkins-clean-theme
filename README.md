@@ -3,6 +3,8 @@ jenkins-clean-theme
 
 This is a simple theme for jenkins using the "simple-theme-plugin"
 
+http://spotlab.github.io/jenkins-clean-theme/
+
 Dependencies
 =================
 
